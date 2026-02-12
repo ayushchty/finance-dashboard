@@ -1,0 +1,5 @@
+{
+  "data_lake_path": "data_lake",
+  "transactions_count": 1000000,
+  "spark_master": "local[*]"
+}

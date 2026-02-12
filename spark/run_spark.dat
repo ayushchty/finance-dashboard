@@ -1,0 +1,4 @@
+@echo off
+echo Running Spark ETL on 1M transactions...
+pyspark spark/etl_pipeline.py
+pause
